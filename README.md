@@ -1,0 +1,2 @@
+# MarketSmithChina
+The MarketSmithChina app
